@@ -76,11 +76,15 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:128px;
 }
 
 h2 {
   color:#393939;
+}
+
+h3 {
+font-size:32px;
 }
 
 h3, h4, h5, h6 {
